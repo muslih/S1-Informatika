@@ -4,6 +4,7 @@
 3. Saling berbagi dan kolaborasi
 
 #Belajar dari mereka
+<a href="https://player.vimeo.com/video/34663315">https://player.vimeo.com/video/34663315</a>
 <iframe src="https://player.vimeo.com/video/34663315" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
