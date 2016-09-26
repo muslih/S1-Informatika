@@ -6,3 +6,7 @@
 
 #Persiapan
 1. Belajar git /version control/  github.com
+  * Apa itu git
+  * Bagaimana Menggunakan git
+  * Apa itu github?
+  * Bagaimana menggunakan github?
