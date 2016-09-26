@@ -13,6 +13,7 @@
 2. Membiasakan mengetik di typing.io
 3. Memiliki rasa ingin tahu yang tinggi!
 4. English, biasakan membaca bahasa inggris.
+5. Buat lingkungan kolaborasi & kompetisi.
 
 #Cara belajar!
 1. Fokus pada saat kuliah dan jangan malu bertanya!.
